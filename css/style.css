@@ -1,0 +1,12 @@
+#navbarSupportedContent{
+    margin-left: 700px;
+}
+nav div ul li a{
+    text-transform: capitalize;
+    color: black;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+nav div ul li a:hover{
+    color:#4458dc;
+}
