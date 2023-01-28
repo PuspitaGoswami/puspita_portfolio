@@ -69,4 +69,14 @@
   .card {
     margin: 0 auto;
   }
+  .card img{
+    height: 220px;
+  }
+  .card-body{
+    height: 300px;
+  }
+
+  .work{
+    display: grid;
+  }
   
