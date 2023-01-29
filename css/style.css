@@ -98,6 +98,9 @@
 #skill{
   margin-top:35px;
 }
+#contact{
+  margin-top:35px;
+}
 .icon{
   width: 50px;
   height: 50px;
@@ -110,4 +113,23 @@
   display: flex;
   justify-content: space-around;
   
+}
+.contact-info {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.info {
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+}
+.info img {
+  height: 50px;
+  width: 50px;
+}
+.linkedin{
+  justify-content: flex-end;
 }
