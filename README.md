@@ -12,6 +12,9 @@ This is a portfolio project designed to showcase my skills in HTML,CSS and boots
 -Use of bootstrap classes
 -Use of CSS hover effects 
 
+### Deployed link
+https://puspitagoswami.github.io/puspita_portfolio/
+
 
 ## Installation
 
