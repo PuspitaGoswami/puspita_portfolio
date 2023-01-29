@@ -48,7 +48,7 @@
   .navCTA {
     font-size: 15px;
   }
-  
+
   
   
   /* STYLES FOR TEMPLATE PLEASE DO NOT TOUCH*/
@@ -80,3 +80,15 @@
     display: grid;
   }
   
+  .jumbotron {
+    background-color: #f5f5f5;
+    padding: 5rem 10rem;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+}
