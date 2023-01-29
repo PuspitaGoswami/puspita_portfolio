@@ -12,9 +12,10 @@
   }
   nav div ul li a{
     font-size: 18px;
+    color: white !important;
   }
-a:hover{
-    color:#16181b;
+.nav-link:hover{
+    color:black !important;
     list-style-type: inherit;
   }
   /* General */
@@ -51,18 +52,25 @@ a:hover{
   }
   
   /* Navigation links */
-  .customNav a {
-    color: white !important;
-  }
+ 
   .navCTA {
     font-size: 15px;
   }
 
   
   
+  
   /* STYLES FOR TEMPLATE PLEASE DO NOT TOUCH*/
   .dropdown-menu {
     left: -97px;
+  }
+  .btn-color{
+    background-color:rgb(21, 223, 223);;
+    color: white;
+  }
+  .btn-color:hover{
+    background-color: rgb(16, 199, 199);
+    box-shadow: #d0d1d2;
   }
   footer {
     position: absolute;
