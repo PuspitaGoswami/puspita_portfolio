@@ -82,7 +82,10 @@
   
   .jumbotron {
     background-color: #f5f5f5;
-    padding: 5rem 10rem;
+    padding: 5rem 10rem 5rem 10rem;
+}
+.jumbotron p{
+  margin-top: 25px;
 }
 
 .img-circle {
@@ -91,4 +94,7 @@
     height: 200px;
     margin: 0 auto;
     display: block;
+}
+.skills ul{
+  
 }
